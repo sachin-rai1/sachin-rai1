@@ -1,6 +1,6 @@
 ## Hi there 👋
-#### ♥   I'm Sachin Rai
-#### 🔭 I’m currently working on Flutter
+### ♥   I'm Sachin Rai
+### 🔭 I’m currently working on Flutter
 ### 🌱 I’m currently learning Laravel and Flutter
 ### 📫 How to reach me: mail me on srai20897@gmail.com  
 <!--
