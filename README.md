@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mail me on srai20897@gmail.com  
 
 
--->
+<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
