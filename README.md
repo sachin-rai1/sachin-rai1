@@ -47,11 +47,6 @@
  
 </div>
 
-###
-
-<h2 align="left" style="color:white;" >💰 You can help me by Donating</h2>
-<a href="https://www.buymeacoffee.com/sachinrai"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
-
 
 
 
